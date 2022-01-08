@@ -1,0 +1,18 @@
+body {
+    background-color: grey;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.fave-food { 
+    display: block;
+    width: 100px;
+    margin: auto;
+}
+
+.lists{
+    display: inline-block;
+    width: 49%;
+}
